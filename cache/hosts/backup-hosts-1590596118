@@ -1,0 +1,81 @@
+
+
+##################################
+         Laragon ToolKit
+########                 #########
+
+127.0.0.1 webpath.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 abc.webpath.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 abc.domain4.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wpdebug.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wpd.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 laragon-tool.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 lg-tool.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 mysql.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 phpmyadmin.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 db.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wp-clone.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wp-clone1.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wpclone.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wpclone1.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 fresh.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wplibs.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wponion.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wp-template.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wptoolbar.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wpurr.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 aiirs.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 ammwc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 aprwc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 apu-zaman.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 bamwc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 bill-scanner.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 cf7isms.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 eddwc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 pbfwc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 pfa.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 quickbuy.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 quickdonation.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 regex.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 spcfwc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 unarray.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 vsp-framework.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 vcowl.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcbgps.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcbpd.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcbpu.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcisms.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcpaytm.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcpbpn.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcps.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcpss.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbacph.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbc.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbfs.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbp.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbpsm.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbsm.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbt.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrbucs.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcrph.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wcsku.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wczppcv.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wpbun.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 wplac.pc # [Laragon-Tookit] VHosts Entry
+10.0.3.1 quantum.sva.run # [Laragon-Tookit] For cPanel Hosting
+23.46.16.141 sunnxt.akamaized.net # [Laragon-Tookit] For SunNEXT
+127.0.0.1 wordpress2.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 opcache.pc # [Laragon-Tookit] VHosts Entry
+10.0.3.1 sva.run # [Laragon-Tookit] Local Domain In cPanel Server
+10.0.3.1 testwp.sva.run # [Laragon-Tookit] cPanel WP Test Site
+10.0.3.1 packagist.in # [Laragon-Tookit] For Local Use Only
+127.0.0.1 upload.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 share.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 file.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 dummydata.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 sample-data.pc # [Laragon-Tookit] VHosts Entry
+127.0.0.1 sdata.pc # [Laragon-Tookit] VHosts Entry
+
+########                 #########
+         Laragon ToolKit
+##################################
